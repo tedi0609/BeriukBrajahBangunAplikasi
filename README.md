@@ -8,6 +8,7 @@ Repository ini Di buat sebagai wadah Blajar bareng membangun Suatu aplikasi.Jika
 Brikut daftar yang Yang di trima BeriukBrajahBangunAplikasi:
 
 * Tedi irawan, [linkedin](https://www.linkedin.com/in/tedi-irawan-550196179/).
+* Walidi Wahyu, [Linkedin](https://www.linkedin.com/in/walidi-wahyu-pratama-923813216/)
 
 
 
